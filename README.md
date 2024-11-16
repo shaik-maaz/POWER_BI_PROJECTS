@@ -3,3 +3,5 @@
 • Visualized total sales and customer-specific sales breakdowns, quick insights into top clients and revenue distribution.
 
 • Optimized the dashboard for mobile devices, leading to a 25% increase in user engagement and access from remote locations, supporting data-driven decision-making from anywhere.
+
+- Provided the csv files which are used in this project and also the relationship between those tables.
